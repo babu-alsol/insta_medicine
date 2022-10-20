@@ -895,7 +895,7 @@ select {
 
 /*==== Mobile Menu End     =======*/
 .header-top {
-  padding: 21px 0;
+  padding: 10px 0 !important;
 }
 
 .header-logo a {
